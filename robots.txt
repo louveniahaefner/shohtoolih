@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://aexathohk.olsen.works/sitemap.xml
